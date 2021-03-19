@@ -60,6 +60,10 @@ h6 {
 
 /* Back to top button */
 
+.img-rounded {
+  border-radius:70px;
+}
+
 .back-to-top {
   position: fixed;
   display: none;
