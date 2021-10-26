@@ -629,11 +629,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 # Other Sections
 --------------------------------------------------------------*/
 
-#aims, #topics, #dates, #submission, #committee, #program, #proceedings, #keynote, #contacts, #editions {
+#aims, #topics, #dates, #submission, #committee, #program, #proceedings, #keynote, #attending, #contacts, #editions {
   padding: 60px 0 30px 0;
 }
 
-#aims .container-fluid, #keynote .container-fluid, #topics .container-fluid, #dates .container-fluid, #submission .container-fluid, #committee .container-fluid, #program .container-fluid, #proceedings .container-fluid, #contacts .container-fluid, #editions .container-fluid {
+#aims .container-fluid, #keynote .container-fluid, #topics .container-fluid, #attending .container-fluid, #dates .container-fluid, #submission .container-fluid, #committee .container-fluid, #program .container-fluid, #proceedings .container-fluid, #contacts .container-fluid, #editions .container-fluid {
   margin-bottom: 3px;
 }
 
